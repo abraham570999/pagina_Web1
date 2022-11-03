@@ -1,0 +1,21 @@
+{
+  "scope": "/",
+  "start_url": "index.php",
+  "display": "standalone",
+  "orientation": "portrait",
+  "name": "Sistema reportes",
+  "short_name": "presidencia",  
+  "description": "Sistema en PWA",  
+  "background_color": "#ebecf1", 
+  "theme_color": "#141E30",
+  "lang": "es", 
+  "icons":
+  [
+    {  
+      "src": "../assets/img/favicon.png",  
+      "type": "image/png",  
+      "sizes": "96x96",  
+      "purpose": "maskable"
+    }
+  ] 
+}
